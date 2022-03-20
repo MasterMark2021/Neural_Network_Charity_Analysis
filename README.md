@@ -15,11 +15,12 @@ ReLU is used as the activation function for both the first and second hidden lay
 ![AlphabetSoupCharity_output](https://user-images.githubusercontent.com/93059601/159143258-4d1dada1-85a9-420d-a7f2-d277a313a081.PNG)
 
 
-
-
+***Optimization Attempt ***
+![AlphabetSoupOptimized_output](https://user-images.githubusercontent.com/93059601/159143390-edb9d215-c971-4794-9c26-4626977c3257.PNG)
 
 
 **Summary**
+
 None of the optimization attempts in this analysis were able to produce a model with a predictive accuracy level of 75% or higher. The following methods were attempted:
 
 Adding an additional hidden layer.
