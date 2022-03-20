@@ -13,5 +13,3 @@ After pre_processing the data, a deep learning model is to create a binary class
 
 ReLU is used as the activation function for both the first and second hidden layers. For the output layer, a sigmoid activation function is used. While training the model, a callback saves the model's weights every 50 epochs. After training, the model's Loss and Accuracy values are evaluated, these values are visible in the output of the codes.
 
-268/268 - 4s - loss: 0.7547 - accuracy: 0.4872 - 4s/epoch - 16ms/step
-Loss: 0.7546967267990112, Accuracy: 0.4872303307056427
