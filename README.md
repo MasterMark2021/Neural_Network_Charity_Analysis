@@ -11,5 +11,6 @@ The variable considered the target for this model is "IS_SUCCESSFUL," all other 
 **Compiling, Training, and Evaluating the Model**
 After pre_processing the data, a deep learning model is to create a binary classification model that can predict if an "Alphabet Soup" funded organization will be successful based on the features in the dataset we have created.
 
-ReLU is used as the activation function for both the first and second hidden layers. For the output layer, a sigmoid activation function is used. While training the model, a callback saves the model's weights every 50 epochs. After training, the model's Loss and Accuracy values are evaluated, these values are visible in the output of the codes.
+ReLU is used as the activation function for both the first and second hidden layers. For the output layer, a sigmoid activation function is used. While training the model, a callback saves the model's weights every 50 epochs. After training, the model's Loss and Accuracy values are evaluated, these values are visible in the output of the codes. See below output image.
+![AlphabetSoupCharity_output](https://user-images.githubusercontent.com/93059601/159143258-4d1dada1-85a9-420d-a7f2-d277a313a081.PNG)
 
